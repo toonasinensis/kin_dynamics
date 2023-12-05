@@ -1,0 +1,19 @@
+<launch>
+
+    <!-- 设置参数 -->
+    <param name="robot_description" textfile="$(find pino_interface)/urdf/el_mini/urdf/el_mini.urdf" />
+
+    <!-- 启动 rviz -->
+    <node pkg="rviz" type="rviz" name="rviz" />
+    <node name="joint_state_publisher" pkg="joint_state_publisher"
+        type="joint_state_publisher">
+        <param name="use_gui" value="false" />
+    </node>
+    <!-- <node
+    name="joint_state_publisher_gui"
+    pkg="joint_state_publisher_gui"
+    type="joint_state_publisher_gui" /> -->
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+</launch>
+
+<!-- src/robot/urdf/elspider_mini/urdf/sw2urdf.urdf -->

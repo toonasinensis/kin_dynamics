@@ -1,0 +1,77 @@
+pino_right
+q_fdb:0.30000 0.30000 0.30000
+eeName:5RM_FOOT
+p_foot_local0.10679  -0.30418 -0.14186
+hipoffset0.00000  -0.14000 0.01100 
+foot_local_hip 0.10679 
+-0.16418
+-0.15286
+Found 2 ik solutions:
+-2.644880.683031.01087
+-2.64488-2.52751-1.01087
+pino_right              
+q_fdb:0.00000 0.00000 0.00000
+eeName:0LB_FOOT
+p_foot_local-0.29543 0.27580  -0.14186
+hipoffset-0.30000 0.08000  0.01100 
+foot_local_hip 0.00457 
+0.19580 
+-0.15286
+Found 2 ik solutions:
+-1.366640.700971.04817
+-1.36664-2.58161-1.04816
+pino_right
+q_fdb:0.00000 0.00000 0.00000
+eeName:1LF_FOOT
+p_foot_local0.40679  0.24418  -0.14186
+hipoffset0.30000 0.08000 0.01100
+foot_local_hip 0.10679 
+0.16418 
+-0.15286
+Found 2 ik solutions:
+-1.416570.517850.47261
+-1.41657-1.36907-0.47260
+pino_right
+q_fdb:1.00000 0.30000 0.30000
+eeName:2LM_FOOT
+p_foot_local0.10679  0.30418  -0.14186
+hipoffset0.00000 0.14000 0.01100
+foot_local_hip 0.10679 
+0.16418 
+-0.15286
+Found 2 ik solutions:
+-1.416570.517850.47261
+-1.41657-1.36907-0.47260
+pino_right
+q_fdb:0.30000 0.30000 0.30000
+eeName:3RB_FOOT
+p_foot_local-0.29543 -0.27580 -0.14186
+hipoffset-0.30000 -0.08000 0.01100 
+foot_local_hip 0.00457 
+-0.19580
+-0.15286
+Found 2 ik solutions:
+-2.454611.030671.67374
+-2.454612.99631-1.67373
+pino_right
+q_fdb:0.30000 0.30000 0.30000
+eeName:4RF_FOOT
+p_foot_local0.40679  -0.24418 -0.14186
+hipoffset0.30000  -0.08000 0.01100 
+foot_local_hip 0.10679 
+-0.16418
+-0.15286
+Found 2 ik solutions:
+-2.644880.683031.01087
+-2.64488-2.52751-1.01087
+pino_right
+q_fdb:0.30000 0.30000 0.30000
+eeName:5RM_FOOT
+p_foot_local0.10679  -0.30418 -0.14186
+hipoffset0.00000  -0.14000 0.01100 
+foot_local_hip 0.10679 
+-0.16418
+-0.15286
+Found 2 ik solutions:
+-2.644880.683031.01087
+-2.64488-2.52751-1.01087

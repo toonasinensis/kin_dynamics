@@ -1,0 +1,242 @@
+number of joints = 20number of frames = 53number of bodies = 20lower joint configuration limit =    -inf
+   -inf
+   -inf
+  -1.01
+  -1.01
+  -1.01
+  -1.01
+ -0.785
+-0.5233
+-0.6978
+ -0.785
+-0.5233
+-0.6978
+ -0.785
+-0.5233
+-0.6978
+ -0.785
+-0.5233
+-0.6978
+ -0.785
+-0.5233
+-0.6978
+ -0.785
+-0.5233
+-0.6978upper joint configuration limit =   inf
+  inf
+  inf
+ 1.01
+ 1.01
+ 1.01
+ 1.01
+0.785
+ 3.14
+3.925
+0.785
+ 3.14
+3.925
+0.785
+ 3.14
+3.925
+0.785
+ 3.14
+3.925
+0.785
+ 3.14
+3.925
+0.785
+ 3.14
+3.925maximal joint velocities = inf
+inf
+inf
+inf
+inf
+inf
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21
+ 21maximal joint torques =  inf
+ inf
+ inf
+ inf
+ inf
+ inf
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5
+33.5joint name & joint position:
+universe
+0 0 0
+floatjoint
+0 0 0
+LB_HAA
+0 0 0
+LB_HFE
+0 0 0
+LB_KFE
+0 0 0
+LF_HAA
+0 0 0
+LF_HFE
+0 0 0
+LF_KFE
+0 0 0
+LM_HAA
+0 0 0
+LM_HFE
+0 0 0
+LM_KFE
+0 0 0
+RB_HAA
+0 0 0
+RB_HFE
+0 0 0
+RB_KFE
+0 0 0
+RF_HAA
+0 0 0
+RF_HFE
+0 0 0
+RF_KFE
+0 0 0
+RM_HAA
+0 0 0
+RM_HFE
+0 0 0
+RM_KFE
+0 0 0
+frame name & frame position:
+universe
+0 0 0
+root_joint
+0 0 0
+world
+0 0 0
+floatjoint
+0 0 0
+BASE
+0 0 0
+LB_HAA
+0 0 0
+LB_HIP
+0 0 0
+LB_HFE
+0 0 0
+LB_THIGH
+0 0 0
+LB_KFE
+0 0 0
+LB_SHANK
+0 0 0
+LB_FIX
+0 0 0
+LB_FOOT
+0 0 0
+LF_HAA
+0 0 0
+LF_HIP
+0 0 0
+LF_HFE
+0 0 0
+LF_THIGH
+0 0 0
+LF_KFE
+0 0 0
+LF_SHANK
+0 0 0
+LF_FIX
+0 0 0
+LF_FOOT
+0 0 0
+LM_HAA
+0 0 0
+LM_HIP
+0 0 0
+LM_HFE
+0 0 0
+LM_THIGH
+0 0 0
+LM_KFE
+0 0 0
+LM_SHANK
+0 0 0
+LM_FIX
+0 0 0
+LM_FOOT
+0 0 0
+RB_HAA
+0 0 0
+RB_HIP
+0 0 0
+RB_HFE
+0 0 0
+RB_THIGH
+0 0 0
+RB_KFE
+0 0 0
+RB_SHANK
+0 0 0
+RB_FIX
+0 0 0
+RB_FOOT
+0 0 0
+RF_HAA
+0 0 0
+RF_HIP
+0 0 0
+RF_HFE
+0 0 0
+RF_THIGH
+0 0 0
+RF_KFE
+0 0 0
+RF_SHANK
+0 0 0
+RF_FIX
+0 0 0
+RF_FOOT
+0 0 0
+RM_HAA
+0 0 0
+RM_HIP
+0 0 0
+RM_HFE
+0 0 0
+RM_THIGH
+0 0 0
+RM_KFE
+0 0 0
+RM_SHANK
+0 0 0
+RM_FIX
+0 0 0
+RM_FOOT
+0 0 0
